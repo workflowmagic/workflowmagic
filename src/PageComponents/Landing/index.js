@@ -33,7 +33,7 @@ function Landing(props){
                           Workflow Magic
                       </h1>
                         
-                    <p className={classes.signInSignUpNoHover}>The simplest workflow management software in human history!</p>
+                    <p className={classes.signInSignUpNoHover}>The simplest workflow management software in history!</p>
                         <p className={classes.signInSignUpNoHover}>Coming Soon!</p>
 
                
