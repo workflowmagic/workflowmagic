@@ -3,11 +3,8 @@ import React, {useState, useEffect} from 'react';
 import { BrowserRouter, Route, Redirect } from "react-router-dom";
 import { withRouter } from "react-router";
 import {Switch} from 'react-router';
-import LandingWithoutClients from './PageComponents/Landing';
-import Dashboard from './PageComponents/Dashboard';
 import Landing  from './PageComponents/Landing';
 
-import Context,{Provider} from "./services/context";
 
 
 // if client is active display Navigation.
